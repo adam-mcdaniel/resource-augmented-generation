@@ -42,4 +42,3 @@ The project is structured as follows:
 - [`assets/`](assets/): Contains the assets used in the README.
 - [`requirements.txt`](requirements.txt): Contains the required packages for the project.
 - `huggingface_token.txt`: Contains your Hugging Face API token. This file is not included in the repository, but you can create an account [here](https://huggingface.co/login), get an access token in your settings, and add it to the file.
-# resource-augmented-generation
